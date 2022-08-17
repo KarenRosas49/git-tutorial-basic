@@ -1,0 +1,3 @@
+Hola
+
+COn este aarchivo mostraremos el uso del staging

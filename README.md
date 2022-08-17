@@ -10,3 +10,4 @@ Esta linea representa el primer commit realizado por terminal. TAmbien se clono 
 
 Esta linea representa el segundo commit realizado por terminal. Ademas se muestra el uso del staging con git add. En este commit no se mostrara el archivo texto.txt
 
+Este es el tercer commit por terminal y se agrega un nuevo archivo: texto.txt
