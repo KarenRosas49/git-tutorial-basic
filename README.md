@@ -15,3 +15,5 @@ Este es el tercer commit por terminal y se agrega un nuevo archivo: texto.txt
 Este es cuarto commit por terminal para ejemplificar el pull en github desktop
 
 Este es el primer commit por github desktop
+
+Esta linea representa un commit realizado con la funcion de source control integrada en cisual estudio code
