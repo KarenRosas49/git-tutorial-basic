@@ -16,4 +16,6 @@ Este es cuarto commit por terminal para ejemplificar el pull en github desktop
 
 Este es el primer commit por github desktop
 
-Esta linea representa un commit realizado con la funcion de source control integrada en cisual estudio code
+Esta linea representa un commit realizado con la funcion de source control integrada en visual estudio code
+
+Esta linea representa un commit realizado con extension pull request and Issues
