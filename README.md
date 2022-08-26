@@ -18,4 +18,4 @@ Este es el primer commit por github desktop
 
 Esta linea representa un commit realizado con la funcion de source control integrada en visual estudio code
 
-Esta linea representa un commit realizado con extension pull Request and Issues
+Esta linea representa un commit realizado con extension pull Request and Issues.
